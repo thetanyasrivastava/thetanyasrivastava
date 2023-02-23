@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thetanyasrivastava
-- 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, Developing Android Apps, Blockchain & Game Development.
-- 🌱 I’m currently learning Android Apps, Blockchain.
-- 💞️ I’m looking to collaborate on mentioned above things.
+- 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, Developing Android Apps, Web Development & Game Development.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Development and Android App Development.
 - 📫 How to reach me ...ummm.. @thetanyasrivastava.
 
 <!---
