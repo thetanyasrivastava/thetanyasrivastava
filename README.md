@@ -1,14 +1,20 @@
-- 👋 Hi, I’m Tanya and my username is @thetanyasrivastava
-- 🔭 I’m currently working on Node.js projects
-- 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
+
+👋 Hi, I’m Tanya and my username is @thetanyasrivastava
+🔭 I’m currently working on Node.js projects
+👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Web Development and Android App Development.
 - 📫 How to reach me ...ummm.. @thetanyasrivastava.
 
  ![Profile views](https://komarev.com/ghpvc/?username=thetanyasrivastava&label=PROFILE+VIEWS)
- ### 📊 GitHub Stats
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thetanyasrivastava&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <!---
+ ### 📊 GitHub Stats
+
+
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetanyasrivastava&show_icons=true&theme=radical)
 --->
 
