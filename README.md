@@ -1,7 +1,7 @@
 
-👋 Hi, I’m Tanya and my username is @thetanyasrivastava
-🔭 I’m currently working on Node.js projects
-👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
+- 👋 Hi, I’m Tanya and my username is @thetanyasrivastava
+- 🔭 I’m currently working on Node.js projects
+- 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Web Development and Android App Development.
 - 📫 How to reach me ...ummm.. @thetanyasrivastava.
