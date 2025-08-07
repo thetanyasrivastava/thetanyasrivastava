@@ -25,6 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 
+> “Code. Design. Build. Repeat. 💻💃✨”
+> 
 <!---
  ### 📊 GitHub Stats
  
