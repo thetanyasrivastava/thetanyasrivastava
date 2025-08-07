@@ -8,7 +8,7 @@
  ![Profile views](https://komarev.com/ghpvc/?username=thetanyasrivastava&label=PROFILE+VIEWS)
  ### 📊 GitHub Stats
 
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingwithtanya&show_icons=true&theme=radical)
+![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetanyasrivastava&show_icons=true&theme=radical)
 
 
 
