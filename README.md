@@ -1,4 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&weight=900&color=FF0000&center=true&vCenter=true&width=650&speed=70&pause=1000&font=Courier+New&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanya+Srivastava;Software+Developer;C%2B%2B+|+Java+|+JavaScript+|+MERN+Stack;DSA+|+System+Design;Web+Developer;Fitness+%26+Dance+Enthusiast" alt="Animated Header" />
+</h1>
 
+
+---
 - 👋 Hi, I’m Tanya and my username is @thetanyasrivastava
 - 🔭 I’m currently building full-stack projects using **Node.js**, **Express**, **MongoDB** and **React.js**
 - 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
@@ -10,6 +15,26 @@
   <img src="https://komarev.com/ghpvc/?username=thetanyasrivastava&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+---
+
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <!-- Dark theme -->
+  <a href="https://github.com/thetanyasrivastava?tab=repositories&q=&type=&language=&sort=">
+    <img src="https://github-readme-stats.vercel.app/api?username=thetanyasrivastava&show_icons=true&theme=tokyonight" alt="GitHub Stats Dark" />
+  </a>
+  <br/>
+  <!-- Light theme -->
+  <a href="https://github-readme-stats.vercel.app/api?username=thetanyasrivastava&show_icons=true&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetanyasrivastava&layout=compact&theme=default" alt="Top Languages Light" />
+  </a>
+</p>
+
+🔄 **Switch Theme:**  
+[🌙 Dark Stats](https://github-readme-stats.vercel.app/api?username=thetanyasrivastava&show_icons=true&theme=tokyonight) | [☀️ Light Stats](https://github-readme-stats.vercel.app/api?username=thetanyasrivastava&show_icons=true&theme=default)
+
+---
 
 ### 🛠️ Tech Stack
 
