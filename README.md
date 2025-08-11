@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&weight=900&color=FF0000&center=true&vCenter=true&width=650&speed=70&pause=1000&font=Courier+New&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanya+Srivastava;Software+Developer;C%2B%2B+|+Java+|+JavaScript+|+MERN+Stack;DSA+|+System+Design;Web+Developer;Fitness+%26+Dance+Enthusiast" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF0000&center=true&vCenter=true&width=650&speed=40&lines=Hi+%F0%9F%91%8B%2C+I%27m+Tanya+Srivastava;Software+Developer;Software+Engineer;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+MERN+Stack;DSA+%7C+System+Design;Web+Developer+%7C+Full+Stack+Developer;Fitness+%26+Dance+Enthusiast" alt="Animated Header" />
 </h1>
 
 
 ---
 - 👋 Hi, I’m Tanya and my username is @thetanyasrivastava
-- 🔭 I’m currently building full-stack projects using **Node.js**, **Express**, **MongoDB** and **React.js**
+- 🔭 I’m currently building and working on full-stack projects using **Node.js**, **Express**, **MongoDB** and **React.js**
 - 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Web Development and Android App Development.
