@@ -4,7 +4,7 @@
 
 
 ---
-- 👋 Hi, I’m Tanya and my username is @thetanyasrivastava
+- 👋 Hi, I’m Tanya Srivastava and my username is @thetanyasrivastava
 - 🔭 I’m currently building and working on full-stack projects using **Node.js**, **Express**, **MongoDB** and **React.js**
 - 👀 I’m interested in Programming, Data Structures and Algorithm, Problem Solving, Coding, System Design, Developing Web Apps, Android Apps, & Game Development.
 - 🌱 I’m currently learning MERN stack.
