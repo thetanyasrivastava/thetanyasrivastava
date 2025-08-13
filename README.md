@@ -10,12 +10,7 @@
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Web Development and Android App Development.
 - 📫 How to reach me ...ummm.. @thetanyasrivastava.
-- <p align="center">
-  <a href="https://www.linkedin.com/in/tanya-srivastava-88038a169/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </p>
-
+  
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thetanyasrivastava&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
@@ -60,6 +55,15 @@
 
 
 > “Code. Design. Build. Repeat. 💻💃✨”
+
+---
+> <p align="center">
+  <a href="https://www.linkedin.com/in/tanya-srivastava-88038a169/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </p>
+
+
 
 <!---
  ### 📊 GitHub Stats
