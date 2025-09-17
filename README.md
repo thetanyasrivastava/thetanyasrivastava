@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Web Development and Android App Development.
 - 📫 How to reach me ...ummm.. @thetanyasrivastava.
+- 
   
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thetanyasrivastava&label=PROFILE+VIEWS" alt="Profile Views" />
